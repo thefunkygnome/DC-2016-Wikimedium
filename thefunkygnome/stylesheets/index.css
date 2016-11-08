@@ -1,0 +1,33 @@
+.postsFeed a {
+  display: block;
+  width: 740px;;
+  margin: 0 auto;
+  background-color: rgba(255, 0, 0, .5);
+  padding: 20px;
+}
+
+.postsFeed figure {
+  background-image: url(../images/narkomfin.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 700px;
+  height: 200px;
+  background-color: blue;
+  margin-bottom: 31px;
+}
+
+.postsFeed h2 {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 34px;
+  color: rgba(0,0,0,.8);
+}
+
+.postsFeed p {
+  margin: 7px 0 10px;
+  font-size: 22px;
+  line-height: 32px;
+  color: rgba(0,0,0,.4);
+  margin-top: 7px;
+}
