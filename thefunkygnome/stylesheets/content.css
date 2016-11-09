@@ -1,3 +1,7 @@
+article {
+  padding-bottom: 40px;
+}
+
 article a {
   text-decoration: underline;
 }
