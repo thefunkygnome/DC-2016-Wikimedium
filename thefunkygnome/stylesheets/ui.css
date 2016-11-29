@@ -34,7 +34,7 @@
   border-color: rgba(0, 0, 0, .2);
 }
 
-@media screen and (max-width: 1180px) {
+@media screen and (max-width: 1180px) and (min-width: 911px) {
 
   .small {
     width: 180px;
